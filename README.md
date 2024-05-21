@@ -1,7 +1,6 @@
 ## DM-BLI: Dynamic Multiple Subspaces Alignment for Unsupervised Bilingual Lexicon Induction
 ![Model](./outline.png)
 
-We include two methods, one supervised that uses a bilingual dictionary or identical character strings, and one unsupervised that does not use any parallel data
 
 ## Get monolingual word embeddings
 For pre-trained monolingual word embeddings, we use [fastText Wikipedia embeddings](https://fasttext.cc/docs/en/pretrained-vectors.html)
